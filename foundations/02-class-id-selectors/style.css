@@ -1,0 +1,22 @@
+.oddnum {
+    color: black;
+    background-color: red;
+}
+
+.cool {
+    font-size: 36px;
+}
+
+#no2 {
+    font-size: 32px;
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+#no4 {
+    color: black;
+    background-color: green;
+    font-weight: bold;
+    font-size: 24px;
+}
+
